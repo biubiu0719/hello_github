@@ -60,5 +60,6 @@ git clone “库的链接”
 ```
 git add newfile
 git commit -m "add new file test"
+git push origin master
 ```
 
